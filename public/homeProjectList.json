@@ -1,0 +1,111 @@
+[
+  {
+    "sectionName": "Our Projects",
+    "sectionSlogan": "Recent project list",
+    "projectList": [
+      {
+        "image": "https://i.ibb.co/6YcWzvW/screencapture-musical-pothos-faf8a0-netlify-app-home-2022-10-23-07-57-38.png",
+        "projectTitle": "Techno Haat2",
+        "projectLink": "https://banglahaatengineering.com/",
+        "projectBannerImage": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg",
+        "detailTitle": "App for Virtual Reality",
+        "detailParagraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "clientsInfo": {
+          "clientName": "Alex Hardson",
+          "category": "E-commerce",
+          "date": "04/19/2022",
+          "social": [
+            ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+            ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+            ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+            ["fa-brands fa-github github", "https://github.com/"]
+          ]
+        },
+        "dynamicDetail": [
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          },
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": ""
+          },
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          },
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          }
+        ]
+      },
+      {
+        "image": "https://i.ibb.co/6YcWzvW/screencapture-musical-pothos-faf8a0-netlify-app-home-2022-10-23-07-57-38.png",
+        "projectTitle": "Techno Haat",
+        "projectLink": "https://banglahaatengineering.com/",
+        "projectBannerImage": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg",
+        "detailTitle": "App for Virtual Reality",
+        "detailParagraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "clientsInfo": {
+          "clientName": "Alex Hardson",
+          "category": "E-commerce",
+          "date": "04/19/2022",
+          "social": [
+            ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+            ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+            ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+            ["fa-brands fa-github github", "https://github.com/"]
+          ]
+        },
+        "dynamicDetail": [
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          },
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          }
+        ]
+      },
+      {
+        "image": "https://i.ibb.co/6YcWzvW/screencapture-musical-pothos-faf8a0-netlify-app-home-2022-10-23-07-57-38.png",
+        "projectTitle": "Techno Haat",
+        "projectLink": "https://banglahaatengineering.com/",
+        "projectBannerImage": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg",
+        "detailTitle": "App for Virtual Reality",
+        "detailParagraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "clientsInfo": {
+          "clientName": "Alex Hardson",
+          "category": "E-commerce",
+          "date": "04/19/2022",
+          "social": [
+            ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+            ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+            ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+            ["fa-brands fa-github github", "https://github.com/"]
+          ]
+        },
+        "dynamicDetail": [
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          },
+          {
+            "title":"The Challenge of Project",
+            "paragraph": "Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "image": "https://demo.ovatheme.com/infetech/wp-content/uploads/2022/03/project04-1.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

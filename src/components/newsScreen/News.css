@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&display=swap');
+.footersection {
+    font-family: 'Barlow Condensed', sans-serif;
+    background: rgb(37, 39, 51);
+}
+.newsDetails{
+    font-family: 'Barlow Condensed', sans-serif;
+   
+}
+.NewEventsCards  {
+    display: inline-block;
+    background: linear-gradient(to right, rgb(255, 255, 255) 50%, #44B0FD 50%) left;
+    background-size: 200%;
+    transition: .4s ease-out;  
+}
+
+.NewEventsCards:hover {
+    background-position: right;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+
+.btnactive, .filterbn:hover  {
+    background-color: unset;
+    border: 3px solid #44B0FD;
+    color: #44B0FD !important;
+    font-weight: 600;
+  }
+.filterbn  {
+    border: 3px solid #44B0FD;
+    color: #ffffff;
+}
+
+.searchOption {
+    border: 3px solid #44B0FD;
+    
+}

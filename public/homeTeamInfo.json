@@ -1,0 +1,114 @@
+[
+  {
+    "sectionName": "Meet The Team",
+    "sectionSlogan": "Experts ready to serve",
+    "title":"Our leadership team",
+    "slogan":"With over 100 years of combined experience, we've got a well-seasoned team at the helm.",
+    "team": [
+      {
+        "id":1,
+        "name":"xyz",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:18003964-321c-45f0-aede-27fbcd916740/Mike-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":2,
+        "name":"xyz",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:9d6cea3f-4d8e-4f0f-87f0-42a36aebbe92/Scott-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":3,
+        "name":"xyz",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:1dbcb457-870b-4159-b008-fe1c3a17cf39/Anu-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":4,
+        "name":"xyz",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:4ba776c6-fedd-4d53-8a32-beb1072c9c05/RajeevRajan_hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":5,
+        "name":"xyzsdf",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:4ba776c6-fedd-4d53-8a32-beb1072c9c05/RajeevRajan_hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":6,
+        "name":"xyzasdf",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:b12cecc1-a79b-401d-9f72-c82742806ef7/Erika-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":7,
+        "name":"xyzasdf",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:74162fe7-715e-4e13-9dea-13f1063c1287/Joff-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+        "id":8,
+        "name":"xyz1234",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:5106cb9d-0cfe-4ae4-847d-cf0a24c090fd/Amy-hover.jpg?cdnVersion=615",
+        "designation": "CTO",
+        "social": [
+          ["fa-brands fa-facebook-f facebook", "https://twitter.com"],
+          ["fa-brands fa-twitter twitter", "https://www.facebook.com/"],
+          ["fa-brands fa-linkedin linkedin", "https://www.linkedin.com/"],
+          ["fa-brands fa-github github", "https://github.com/"]
+        ],
+        "description":"Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries. Lorem Ipsum is simply dummy text of the new design printng and type setting Ipsum Take a look at our round up of the best shows coming soon to your telly box has been the is industrys. When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+    ]
+  }
+]

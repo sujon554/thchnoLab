@@ -1,0 +1,34 @@
+
+.setFont{
+    font-family: "Barlow Condensed", sans-serif;
+}
+.teamBackground{
+    background-image: url("../../../resource/service/serviceBg.png");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-size: 100vw 290vh;
+}
+.sideBar{
+    background-color: #55B4F3;
+}
+.designation{
+    font-family: "Barlow Condensed", sans-serif;
+    writing-mode: tb-rl;
+    transform: rotate(180deg);
+    letter-spacing: 6px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    padding: 0px 0px 40px 0px
+}
+.grayscale{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    
+    transition: .3s ease-in-out;
+}
+.grayscale:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
+}
+

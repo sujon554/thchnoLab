@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400;500;600;700;800;900&display=swap");
+
+.bannerBg {
+  background-image: url("../../../resource/service/serviceBg.png");
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bannerBtn {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px;
+  border-radius: 3px;
+  color: whitesmoke;
+  border: 5px solid whitesmoke;
+  padding: 15px 30px 15px 30px;
+  font-weight: 700;
+  transition: 0.35s;
+}
+
+.bannerBtn:hover {
+  border-radius: 3px;
+  transition: 0.3s;
+  color: black;
+  border: 5px solid whitesmoke;
+  padding: 15px 30px 15px 30px;
+  background-color: whitesmoke;
+  font-weight: 700;
+}
+
+.banner-Slogan {
+  font-family: "Barlow Condensed", sans-serif;
+  color: whitesmoke;
+  font-weight: 400;
+}
+
+.bannerTitle {
+  font-family: "Barlow Condensed", sans-serif;
+  writing-mode: tb-rl;
+  transform: rotate(180deg);
+  letter-spacing: 3px;
+  font-weight: 500;
+}
+
+.arrowBtn {
+  color: white;
+  font-weight: 800;
+  border: 8px solid #ffffff70;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  transition: 0.3s ease-in-out;
+}
+
+.arrowBtn:hover {
+  border: 8px solid white;
+}
+
+.imageAppear {
+  animation: animateLeft 1s;
+}
+.facebook {
+  transition: 0.3s ease-in-out;
+}
+
+.facebook:hover {
+  color: #3b5998;
+  border-color: #3b5998;
+}
+
+.instagram {
+  transition: 0.3s ease-in-out;
+}
+.instagram:hover {
+  color: #5851db;
+  border-color: #5851db;
+}
+.twitter {
+  transition: 0.3s ease-in-out;
+}
+.twitter:hover {
+  color: #00acee;
+  border-color: #00acee;
+}
+
+.linkedin {
+  transition: 0.3s ease-in-out;
+}
+.linkedin:hover {
+  color: #0072b1;
+}
+
+.github {
+  transition: 0.3s ease-in-out;
+}
+.github:hover {
+  color: #171515;
+}
+
+.phone {
+  transition: 0.3s ease-in-out;
+}
+.phone:hover {
+  color: gray;
+}
+
+.email {
+  transition: 0.3s ease-in-out;
+}
+.email:hover {
+  color: #c71610;
+}
+
+@keyframes animateLeft {
+  from {
+    left: -300px;
+    opacity: 0;
+  }
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}

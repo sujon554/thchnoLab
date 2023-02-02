@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700&display=swap');
+
+.contacts {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-image: url("../../../resource/contacts/contactsBG.png");
+    background-color: #000000;
+    position: relative;
+    background-repeat: no-repeat;
+}

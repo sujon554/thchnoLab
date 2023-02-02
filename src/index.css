@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.custom-bg {
+  transition: .3s ease-in-out;
+  background-color: black;
+}
+
+.headline {
+  font-family: 'Comfortaa', cursive;
+}
+
+.is-current {
+  font-weight: 900;
+  text-decoration: underline;
+  color: #55B4F3;
+}
+
+.is-current:hover {
+  color: white !important;
+}
+.notActivePhone{
+  color: whitesmoke;
+  font-weight: 500; 
+  transition: 0.3s ease-in-out; 
+}
+.notActivePhone:hover{
+  color: #1746A2;
+  font-weight: 700;  
+}
+.active {
+  color: #55B4F3;  
+}
+
+.notActive:hover {
+  color: #55B4F3;  
+}
+.menu a{
+  background-color: unset;
+}
+
+html,body {
+  font-family: "Barlow Condensed", sans-serif;
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100;200;300;400;500;600;700&display=swap');
+.expectations {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-image: url("../../../resource/expectations/background.png");
+    background-color: #000000;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.expectationsButton{
+    border: 6px solid #55B4F3;
+    color: #55B4F3;
+    transition: 0.3s ease-in-out;
+}
+
+.expectationsButton:hover{
+    border: 6px solid #55B4F3;
+    background-color: #55B4F3;
+    color: white;
+}

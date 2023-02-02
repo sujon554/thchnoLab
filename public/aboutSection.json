@@ -1,0 +1,21 @@
+[
+    {
+        "image1": "https://i.ibb.co/9wk0TNB/Layer2.png",
+        "image2": "https://i.ibb.co/r3GtRHX/Layer3.png",
+        "sectionName": "Welcome to Technoh haat",
+        "title1": "We're a softwate & web development",
+        "title2": "Company based in Srilanka & Bangladesh",
+        "description": "Techno Haat helps to craft your very own virtual presence and platform for informing and interacting with your customers. We possess strong skill matrix in top notch technologies and serves verities of disciplines. From mobile platforms to social media, Techno Haat develops applications for every disciplines to assist your business goals and growths. We have the expertise to create right balance between clients ideas, platform capabilities, user experience and expect",
+        "contries": "We are servcing a global clients in 10 countries",
+        "icons": "fa-solid  fa-check",
+        "list": [
+            "The best customized solution for your needs",
+            "10+ years of experience give you better result",
+            "We deliver smart and professional work",
+            "We have a team of professional coders & designers",
+            "24/7 quality support"
+        ]
+           
+        
+    }
+]

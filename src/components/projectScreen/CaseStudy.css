@@ -1,0 +1,14 @@
+.caseStudyBg {
+  
+  background-image: url("../../resource/expectations/background.png");
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.imgStrech{
+    object-fit: cover;
+}
+
+.whiteLine{
+    border: 1px solid white;
+}

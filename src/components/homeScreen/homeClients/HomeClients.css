@@ -1,0 +1,19 @@
+.clientsScreen {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.slick-track{
+    margin-bottom: 20px!important;
+}
+
+.slick-dots .slick-active{
+    border: 4px solid gray;
+}
+.slick-dots li{
+    border: 4px solid white;
+}
+
+.slick-dots li> button{
+    opacity: 0;
+}
+

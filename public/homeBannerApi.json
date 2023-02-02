@@ -1,0 +1,27 @@
+[
+  {
+    "sideBarTitle": "Techno haat international",
+    "sideBarLinks": [
+      ["fa-brands fa-facebook-f facebook", "https://www.w3schools.com"],
+      ["fa-brands fa-instagram instagram", "https://www.w3schools.com"],
+      ["fa-brands fa-twitter twitter", "https://www.w3schools.com"],
+      ["fa-brands fa-linkedin linkedin", "https://www.w3schools.com"]
+  
+    ],
+    "phoneNumber":"+8801917824035",
+    "email":"contact@technohaat.tech",
+    "bannerSlogan": " Thoughtful Solutions to <span>Solve Problems</span>",
+    "bannerImage": "",
+    "bannerButtonName": [
+      ["View Projects", "/projects"]
+    ],
+     "bannerImages" : [
+      "https://i.ibb.co/H41F4F4/Layer-1.png",
+      "https://wallpaperset.com/w/full/7/e/3/180293.jpg",
+      "https://img.freepik.com/premium-photo/digital-cyberspace-data-network-connections_24070-1044.jpg?w=2000",
+      "https://image.shutterstock.com/image-illustration/triangle-solid-black-golden-illustration-260nw-1862937556.jpg"
+    ]
+  }
+]
+
+

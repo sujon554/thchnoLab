@@ -1,0 +1,46 @@
+[
+  {
+   "sectionName":"Our Services",
+   "sectionSlogan":"What We Do",
+   "title":"Out creative solutions",
+   "slogan":"CREATIVITY IS IN OUR BLOOD & VEIN",
+   "serviceList":[
+  
+     {
+       "image":"fa-solid fa-desktop",
+       "serviceTitle":"Web solutions",
+       "serviceDesc":"Teechno Haat helps to craft your very own virtual presence and platform for informing and interacting with your customers. We possess strong skill matrix in top notch technologies and serves verities of disciplines."
+     },
+     {
+       
+       "image":"fa-solid fa-mobile-screen",
+       "serviceTitle":"APPS DEVELOPMENT",
+       "serviceDesc":"From mobile platforms to social media, We develope applications for every disciplines to assist your business goals & growths. We have the expertise to create right balance between client’s ideas, platform capabilities, user experience."
+     },
+     {
+       
+       "image":"fa-solid fa-laptop-code",
+       "serviceTitle":"CUSTOMIZED SOFTWARE",
+       "serviceDesc":"To support our clients to acquire the latest in technology, we develop software tailor made to the business needs. We build software that automates your day to day business process to ensure sustainable growth of your business."
+     }
+   ],
+   
+   "description":"You often get only one chance when it comes to making impression and winning business. We make sure that our graphic design services help you to attract your customers with professionally designed marketing and communications materials.",
+   "miniServiceList": [
+     {
+       "serviceTitle": "Web solutions"
+     },
+     {
+       "serviceTitle": "CORPORATE IDENTITY"
+     },
+     {
+       "serviceTitle": "PRINT PRODUCTION"
+     },
+     {
+       "serviceTitle": "PROMOTIONAL MATERIALS"
+     }
+   ]
+  }
+ ]
+ 
+ 
